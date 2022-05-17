@@ -1,2 +1,2 @@
 # LonelyHero-Spotify-clone-2.0-
-Update version of the clone spotify
+Updated version of the clone spotify
